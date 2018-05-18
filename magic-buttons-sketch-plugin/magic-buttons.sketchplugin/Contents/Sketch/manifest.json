@@ -1,0 +1,19 @@
+{
+    "name" : "Magic Buttons",
+    "identifier" : "magic-buttons",
+    "version" : "0.1",
+    "description" : "Be a wizard! Automatically resize and relabel buttons with padding sizes like CSS.",
+    "authorEmail" : "caio.calderari@upx.com",
+    "author" : "Caio Calderari and Gabriel Ribeiro - UPX Technologies",
+    "icon": "icons/icon.jpg",
+	
+    "commands" : [
+    {
+      "script" : "magic-buttons.js",
+      "handler" : "onRun",
+      "shortcut" : "command shifty m",
+      "name" : "Make magic",
+      "identifier" : "magic-buttons"
+    }
+  ],
+}
