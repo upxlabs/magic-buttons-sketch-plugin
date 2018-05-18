@@ -88,11 +88,10 @@ Magic Buttons Plugin will do the math for you. It will consider padding-left + t
 
 ## Authors
 
-Created by Caio Calderari (Designer) and Gabriel Ribeiro (Front-end).
+Created by UPX Technologies.
 
 Github:
-https://github.com/calderaricaio
-https://github.com/notnotgabriel
+https://github.com/upxlabs
 
 Credits:
 This plugin was developed as open source code.
