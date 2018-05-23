@@ -93,6 +93,7 @@ Here's quick example on how to hide padding-layers inside our sample file, it's 
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-hide-padding.gif" />
 
 <br>
+
 ## How to create your own buttons
 
 You can create your own set of buttons using our simple structure to ensure the plugin will work, 
