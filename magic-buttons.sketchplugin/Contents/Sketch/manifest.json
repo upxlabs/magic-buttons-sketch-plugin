@@ -3,8 +3,8 @@
     "identifier" : "magic-buttons",
     "version" : "0.1",
     "description" : "Be a wizard! Automatically resize and relabel buttons with padding sizes like CSS.",
-    "authorEmail" : "caio.calderari@upx.com",
-    "author" : "Caio Calderari and Gabriel Ribeiro - UPX Technologies",
+    "authorEmail" : "contato@upx.com",
+    "author" : "UPX Technologies",
     "icon": "icons/icon.jpg",
 	
     "commands" : [

@@ -11,17 +11,17 @@ This plugin's goal is to make buttons a little bit smart by automatically keepin
 based on the padding sizes and text elements inside it, also giving users hability to change it's label text with a keyboard command (cmd + m).
 
 
-Created by Caio Calderari (Designer) and Gabriel Ribeiro (Front-end), 
-at UPX Technologies - www.upx.com - May, 2018.
-
-Github:
-https://github.com/calderaricaio
-https://github.com/notnotgabriel
+Created at UPX Technologies - www.upx.com - May, 2018.
 
 Credits:
 This plugin was developed as open source code.
 Part of the code was based on the plugin called Relabel Button plugin by Ken Moore,
 and the rest of it was coded by the authors.
+
+An idea of Caio Calderari
+
+Github:
+https://github.com/calderaricaio
 
 */
 

@@ -1,4 +1,7 @@
-<img src="https://link" width="127px" height="127px" align="left"/>
+
+<img src="https://https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/github-magic-buttons-cover.png" />
+
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/magic-buttons-icon-big.png" width="127px" height="127px" align="left"/>
 
 # Magic Buttons v0.1 - Sketch Plugin
 
@@ -11,8 +14,8 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 
 <br>
 
-<a href="#" >
-  <img src="https://.svg?branch=master" align="left" />
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/graphs/contributors" >
+  Contributors
 </a>
 
 <br>
