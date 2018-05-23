@@ -19,7 +19,7 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 <br>
 
 
-<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip" ><img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/download-button.jpg" align="center" /></a>
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip" ><img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/download-button.jpg" width="750" height="300" align="center" /></a>
 
 <br>
 
@@ -35,7 +35,7 @@ This is a free sketch plugin developed to make buttons management easier inside 
 This plugin's goal is to make buttons a little bit smart by automatically keeping it's proportions
 based on the padding sizes and text elements inside it, also giving users hability to change it's label text with a keyboard command.
 
-* Relabel buttons with a keyboard command (cmd + m) - (works as overide of a text layer inside a symbol)
+* Relabel buttons with a keyboard command <b>(cmd + shift + m)</b> - (works as overide of a text layer inside a symbol)
 * Keep button size according to text size + padding elements defined by you
 * Works similar to the CSS padding concept
 
@@ -62,7 +62,7 @@ Double click the file
 That's it!
 ```
 
-Inside Sketch:
+### Inside Sketch:
 
 1 - First select the symbol you want to relabel and press a keyboard command <b>(cmd + shift + m)</b>.
 <b>It just works with symbols!</b>
@@ -121,14 +121,20 @@ Artboard/Symbol size can be any in height or width, and background layers, borde
 
 <br>
 The size of padding-left and padding-right can be determined by you and can be different for each element.
-Magic Buttons Plugin will do the math for you. It will consider padding-left + text size + padding-right and always keep your buttons with the right size.
+Magic Buttons Plugin will do the math for you. It will consider <b>padding-left + text size + padding-right</b> and always keep your buttons with the right size.
 
 
 
 ## Authors
 
+<br>
+
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/logo-upx.png" width="200" height="72"  />
-Created by UPX Technologies.
+
+<br>
+Created by <b>UPX Technologies</b>.
+
+www.upx.com
 
 Github:
 https://github.com/upxlabs
@@ -140,6 +146,7 @@ and the rest of it was coded by the authors.
 
 An idea from <a href="https://github.com/calderariciao">Caio Calderari</a>
 
+<br>
 
 ## Contributing
 
