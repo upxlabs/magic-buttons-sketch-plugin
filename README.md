@@ -1,5 +1,7 @@
 
-<img src="https://https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/github-magic-buttons-cover.png" />
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/github-magic-buttons-cover.png" />
+
+<br>
 
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/magic-buttons-icon-big.png" width="127px" height="127px" align="left"/>
 
@@ -14,7 +16,7 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 
 <br>
 
-<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/graphs/contributors" >
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/graphs/contributors">
   Contributors
 </a>
 
@@ -30,10 +32,19 @@ based on the padding sizes and text elements inside it, also giving users habili
 * Keep button size according to text size + padding elements defined by you
 * Works similar to the CSS padding concept
 
+## The problem
+
+Look at how hard it is to change a button label and keep it with the correct size and proportions.
+
+
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/example-how-we-do-it-today.gif" />
+
 
 ## How to use
 
 First, install it:
+
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-install.gif" />
 
 ```
 Download the plugin via github
