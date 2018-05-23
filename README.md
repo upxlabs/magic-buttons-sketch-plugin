@@ -18,11 +18,14 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 
 <br>
 
+
+##<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+
+<br>
+
 <a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/graphs/contributors">
   Contributors
 </a>
-
-<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
 
 <br>
 
@@ -87,23 +90,25 @@ Here's quick example on how to hide padding-layers inside our sample file, it's 
 ## How to create your own buttons
 
 You can create your own set of buttons using our simple structure to ensure the plugin will work, 
-or just get our sketch file and use our template buttons. <a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+or just get our sketch file and use our template buttons.
 
-######Simply create a new button and make sure there are 3 elements inside it:
-###1 - padding-left (must be a symbol) - symbol name must be exatly that, lowercase only
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+
+###### Simply create a new button and make sure there are 3 elements inside it:
+### 1 - padding-left (must be a symbol) - symbol name must be exatly that, lowercase only
 ```
 padding-left
 ```
-###2 - text element (Can't be a symbol) - you can setup as you like, no special requirements
+### 2 - text element (Can't be a symbol) - you can setup as you like, no special requirements
 ```
 text
 ```
-###3 - padding-right (must be a symbol) - symbol name must be exatly that, lowercase only
+### 3 - padding-right (must be a symbol) - symbol name must be exatly that, lowercase only
 ```
 padding-right
 ```
 
-###b>Symbol Button final structure:</b>
+### <b>Symbol Button final structure:</b>
 ```
 padding-left + text + padding-right
 ```
