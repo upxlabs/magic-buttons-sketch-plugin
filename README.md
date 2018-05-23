@@ -116,8 +116,10 @@ padding-left + text + padding-right
 <br>
 <b>TIP:</b> For the text layer, make sure it's aligned to the place where you want it to be, centered, left or right. Pin it to the corners if you want it to stick to the left or right and make sure to check the text alignment/position. If you get lost, download our sample files to get some ideas.
 
+<br>
 Artboard/Symbol size can be any in height or width, and background layers, border layers, color layers, icon layers and others inside the button symbol won't be affected.
 
+<br>
 The size of padding-left and padding-right can be determined by you and can be different for each element.
 Magic Buttons Plugin will do the math for you. It will consider padding-left + text size + padding-right and always keep your buttons with the right size.
 
