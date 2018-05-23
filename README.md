@@ -62,10 +62,10 @@ That's it!
 Inside Sketch:
 
 1 - First select the symbol you want to relabel and press a keyboard command <b>(cmd + shift + m)</b>.
-<b>It just work with symbols!</b>
+<b>It just works with symbols!</b>
 
 
-2 - The the prompt will open, type in the new desired label and hit enter.
+2 - The prompt will open, type in the new desired label and hit enter.
 
 3 - Magical! The button is going to be automatically resized to fit the new text with padding settings preserved as you defined in the symbol.
 
@@ -73,7 +73,7 @@ Inside Sketch:
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/resize-button-example.gif" />
 
 Tip:
-You can select more than one at the same time, it will ask new label for each in a separated prompt.
+You can select more than one symbol at the same time, it will ask new label for each in a separated prompt.
 
 ## Buttons Template
 
@@ -87,28 +87,29 @@ Here's quick example on how to hide padding-layers inside our sample file, it's 
 ## How to create your own buttons
 
 You can create your own set of buttons using our simple structure to ensure the plugin will work, 
-or just get our sketch file and use our template buttons.
+or just get our sketch file and use our template buttons. <a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
 
-Simply create a new button and make sure there are 3 elements inside it:
-* 1 - padding-left (must be a symbol) - text lowercase only
+######Simply create a new button and make sure there are 3 elements inside it:
+###1 - padding-left (must be a symbol) - symbol name must be exatly that, lowercase only
 ```
 padding-left
 ```
-* 2 - text element (Can't be a symbol)
+###2 - text element (Can't be a symbol) - you can setup as you like, no special requirements
 ```
 text
 ```
-* 3 - padding-right (must be a symbol) - text lowercase only
+###3 - padding-right (must be a symbol) - symbol name must be exatly that, lowercase only
 ```
 padding-right
 ```
 
-Symbol Button structure:
+###b>Symbol Button final structure:</b>
 ```
 padding-left + text + padding-right
 ```
 
-* For the text layer, make sure it's aligned to the place where you want it to be, centered, left or right. Pin it to the corners if you want it to stick to the left or right and make sure to check the text alignment/position. If you get lost, download our sample files to get some ideas.
+<br>
+<b>TIP:</b> For the text layer, make sure it's aligned to the place where you want it to be, centered, left or right. Pin it to the corners if you want it to stick to the left or right and make sure to check the text alignment/position. If you get lost, download our sample files to get some ideas.
 
 Artboard/Symbol size can be any in height or width, and background layers, border layers, color layers, icon layers and others inside the button symbol won't be affected.
 
