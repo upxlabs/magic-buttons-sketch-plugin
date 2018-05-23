@@ -22,6 +22,8 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
   Contributors
 </a>
 
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+
 <br>
 
 ## Description
@@ -46,6 +48,8 @@ Look at how hard it is to change a button label and keep it with the correct siz
 
 First, download the plugin here and install it:
 
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-install.gif" />
 
 ```
@@ -57,14 +61,19 @@ That's it!
 
 Inside Sketch:
 
-First select the symbol you want to relabel and press a keyboard command <b>(cmd + shift + m)</b>.
-* It just work with symbols!
+1 - First select the symbol you want to relabel and press a keyboard command <b>(cmd + shift + m)</b>.
+<b>It just work with symbols!</b>
 
-The the prompt will open, type in the new desired label and hit enter.
 
-Magical! The button is going to be automatically resized to fit the new text with padding settings preserved as you defined in the symbol.
+2 - The the prompt will open, type in the new desired label and hit enter.
 
+3 - Magical! The button is going to be automatically resized to fit the new text with padding settings preserved as you defined in the symbol.
+
+<b>View how it works here:</b>
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/resize-button-example.gif" />
+
+Tip:
+You can select more than one at the same time, it will ask new label for each in a separated prompt.
 
 ## Buttons Template
 
