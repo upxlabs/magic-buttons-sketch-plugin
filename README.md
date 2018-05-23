@@ -33,7 +33,7 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 
 This is a free sketch plugin developed to make buttons management easier inside Sketch App.
 This plugin's goal is to make buttons a little bit smart by automatically keeping it's proportions
-based on the padding sizes and text elements inside it, also giving users hability to change it's label text with a keyboard command.
+based on the padding sizes and text elements inside it, also giving users ability to change it's label text with a keyboard command.
 
 * Relabel buttons with a keyboard command <b>(cmd + shift + m)</b> - (works as override of a text layer inside a symbol)
 * Keep button size according to text size + padding elements defined by you
