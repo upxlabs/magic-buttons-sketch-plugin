@@ -39,6 +39,8 @@ based on the padding sizes and text elements inside it, also giving users habili
 * Keep button size according to text size + padding elements defined by you
 * Works similar to the CSS padding concept
 
+<br>
+
 ## The problem
 
 Look at how hard it is to change a button label and keep it with the correct size and proportions today.
@@ -46,6 +48,7 @@ Look at how hard it is to change a button label and keep it with the correct siz
 
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/example-how-we-do-it-today.gif" />
 
+<br>
 
 ## How to use
 
@@ -83,10 +86,13 @@ You can select more than one symbol at the same time, it will ask new label for 
 We created a sample sketch file with some examples of buttons ready to use. You can download it to test or use for real, it's free.
 You can also create your own set of buttons based on our methodology.
 
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+
 
 Here's quick example on how to hide padding-layers inside our sample file, it's easy!
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-hide-padding.gif" />
 
+<br>
 ## How to create your own buttons
 
 You can create your own set of buttons using our simple structure to ensure the plugin will work, 
@@ -124,6 +130,7 @@ The size of padding-left and padding-right can be determined by you and can be d
 Magic Buttons Plugin will do the math for you. It will consider <b>padding-left + text size + padding-right</b> and always keep your buttons with the right size.
 
 
+<br>
 
 ## Authors
 
