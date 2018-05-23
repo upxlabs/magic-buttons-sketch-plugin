@@ -19,7 +19,7 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 <br>
 
 
-<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/download-button.jpg" /></a>
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip" ><img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/download-button.jpg" align="center" /></a>
 
 <br>
 
@@ -127,6 +127,7 @@ Magic Buttons Plugin will do the math for you. It will consider padding-left + t
 
 ## Authors
 
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/logo-upx.png" width="200" height="72"  />
 Created by UPX Technologies.
 
 Github:
