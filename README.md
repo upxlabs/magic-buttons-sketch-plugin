@@ -3,6 +3,8 @@
 
 <br>
 
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/relabel-example.gif" />
+
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/cover-and-icons/magic-buttons-icon-big.png" width="127px" height="127px" align="left"/>
 
 # Magic Buttons v0.1 - Sketch Plugin
@@ -34,7 +36,7 @@ based on the padding sizes and text elements inside it, also giving users habili
 
 ## The problem
 
-Look at how hard it is to change a button label and keep it with the correct size and proportions.
+Look at how hard it is to change a button label and keep it with the correct size and proportions today.
 
 
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/example-how-we-do-it-today.gif" />
@@ -42,7 +44,7 @@ Look at how hard it is to change a button label and keep it with the correct siz
 
 ## How to use
 
-First, install it:
+First, download the plugin here and install it:
 
 <img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-install.gif" />
 
@@ -55,17 +57,23 @@ That's it!
 
 Inside Sketch:
 
-First select the symbol you want to relabel and press a keyboard command (cmd + m).
+First select the symbol you want to relabel and press a keyboard command <b>(cmd + shift + m)</b>.
 * It just work with symbols!
 
 The the prompt will open, type in the new desired label and hit enter.
 
 Magical! The button is going to be automatically resized to fit the new text with padding settings preserved as you defined in the symbol.
 
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/resize-button-example.gif" />
+
 ## Buttons Template
 
 We created a sample sketch file with some examples of buttons ready to use. You can download it to test or use for real, it's free.
 You can also create your own set of buttons based on our methodology.
+
+
+Here's quick example on how to hide padding-layers inside our sample file, it's easy!
+<img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/how-to-hide-padding.gif" />
 
 ## How to create your own buttons
 
@@ -111,6 +119,8 @@ Credits:
 This plugin was developed as open source code.
 Part of the code was based on the plugin called Relabel Button plugin by Ken Moore,
 and the rest of it was coded by the authors.
+
+An idea from <a href="https://github.com/calderariciao">Caio Calderari</a>
 
 
 ## Contributing
