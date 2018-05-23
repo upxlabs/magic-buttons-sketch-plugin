@@ -19,7 +19,7 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
 <br>
 
 
-##<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><b>Download it here</b></a>
+<a href="https://github.com/upxlabs/magic-buttons-sketch-plugin/raw/master/magic-buttons-sketch-plugin-v01.zip"><img src="https://github.com/upxlabs/magic-buttons-sketch-plugin/blob/master/documentation-images/download-button.jpg" /></a>
 
 <br>
 
