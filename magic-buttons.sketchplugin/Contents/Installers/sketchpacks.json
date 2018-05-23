@@ -1,0 +1,5 @@
+{
+  "schema_version": "0.0.1",
+  "manifest_path": "../Sketch/manifest.json",
+  "appcast_path": "../Sketch/appcast.xml"
+}
