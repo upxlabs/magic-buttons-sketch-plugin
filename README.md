@@ -47,6 +47,9 @@ based on the padding sizes and text elements inside it, also giving users abilit
 * Works similar to the CSS padding concept
 
 <br>
+<a href="https://blog.prototypr.io/magic-buttons-sketch-plugin-first-release-bed434900576"><b>Read a medium post we wrote about the plugin!</b></a>
+
+<br>
 
 ## The problem
 
@@ -172,6 +175,11 @@ Be sure to provide at least the following information on the issue:
 * Environment (e.g. Skecth v5.0)
 * Operating System (e.g. iOS 10)
 * Plugin version (e.g. 3.0.0)
+
+## Share it
+Use some of our image sources to share this plugin on your website or social networks!
+
+https://github.com/upxlabs/magic-buttons-sketch-plugin/tree/master/documentation-images
 
 
 ## License
