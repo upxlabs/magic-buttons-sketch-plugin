@@ -27,8 +27,10 @@ Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
   Contributors
 </a>
 
+<br>
+
  <a href="http://bit.ly/SketchRunnerWebsite">
-      <img src="http://bit.ly/RunnerBadgeBlue">
+      <img src="http://bit.ly/RunnerBadgeBlue" height="40" width="160">
  </a>
 
 
