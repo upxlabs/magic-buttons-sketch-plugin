@@ -113,14 +113,17 @@ or just get our sketch file and use our template buttons.
 
 ###### Simply create a new button and make sure there are 3 elements inside it:
 ### 1 - padding-left (must be a symbol) - symbol name must be exatly that, lowercase only
+##### Important: layer name must be exactly the following, lowercase only. Layer must be Fixed width size, pinned left.
 ```
 padding-left
 ```
 ### 2 - text element (Can't be a symbol) - you can setup as you like, no special requirements
+##### Important: layer name must be exactly the following, lowercase only. Must be set as Auto, not fixed.
 ```
 text
 ```
 ### 3 - padding-right (must be a symbol) - symbol name must be exatly that, lowercase only
+##### Important: layer name must be exactly the following, lowercase only. Layer must be Fixed width size, pinned right.
 ```
 padding-right
 ```
