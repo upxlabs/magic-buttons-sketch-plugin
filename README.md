@@ -14,7 +14,7 @@ Be a wizard! Automatically resize and relabel buttons with padding sizes like CS
 The Magic Buttons Sketch plugin let you automatically change the label of any symbol button by pressing keyboard keys <b>(cmd + shift + m)</b>,
 and also resize the button according to the new text added keeping it's padding proportions like in CSS. It's magical!
 
-Created at UPX Technologies in May, 2018. Visite the website: www.upx.com
+Created by UPX Technologies in May, 2018. Visit the website: www.upx.com
 
 <br>
 
