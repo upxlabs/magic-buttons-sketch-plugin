@@ -24,6 +24,7 @@ Github:
 https://github.com/calderaricaio
 
 */
+var sketch = require('sketch')
 
 // start magic plugin
 var onRun = function(context) {
@@ -131,9 +132,7 @@ var onRun = function(context) {
                             // if no overrides originally, prior text is the string value of the master
                             priorText = [layer stringValue];
                         }
-                        var newText = [doc askForUserInput: "Add new button label"
-                            initialValue: priorText
-                        ]; 
+                        var newText = sketch.UI.getStringFromUser("", priorText);
 
                         if (newText) {
                             // store the text field's master text and width
