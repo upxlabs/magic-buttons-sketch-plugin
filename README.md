@@ -165,7 +165,7 @@ This plugin was developed as open source code.
 Part of the code was based on the plugin called Relabel Button plugin by Ken Moore,
 and the rest of it was coded by the authors.
 
-An idea from <a href="https://github.com/calderariciao">Caio Calderari</a>
+An idea from <a href="https://github.com/calderaricaio">Caio Calderari</a>
 
 <br>
 
